@@ -1,0 +1,9 @@
+# 忽略所有 CSV 数据文件
+*.csv
+*.parquet
+# 忽略日志文件
+*.log
+*.pkl
+# 忽略临时缓存
+*.tmp
+*.zip
